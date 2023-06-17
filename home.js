@@ -1,4 +1,4 @@
 function mostraNome(nome) {
 
-    nome
+    return'nome';
 }
