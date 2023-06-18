@@ -1,0 +1,3 @@
+function cadastro(email){
+    email;
+}
