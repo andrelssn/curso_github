@@ -1,0 +1,6 @@
+USUARIOS DA PLATAFORMA
+
+
+    - NOME
+    - EMAIL
+    - CÓDIGO
